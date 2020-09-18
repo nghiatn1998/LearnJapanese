@@ -1,0 +1,9 @@
+export default {
+  QUANTITY_ANSWER_OPTIONS: {
+    FOUR_ANSWER: 4,
+    SIX_ANSWER: 6,
+    EIGHT_ANSWER: 8,
+    NINE_ANSWER: 9,
+    TWELFTH_ANSWER: 12,
+  }
+}

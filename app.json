@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Learn Japanese",
+    "slug": "sunyata",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/Images/icons/icon-sunyata.png",
+    "facebookScheme": "fb959670457736521",
+    "splash": {
+      "image": "./src/assets/Images/splashs/loading.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "shakya.nguyen"
+    },
+    "description": "",
+    "android": {
+      "package": "shakya.nguyen"
+    }
+  }
+}
